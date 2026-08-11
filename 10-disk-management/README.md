@@ -1,7 +1,7 @@
 # Disk and Storage Management in Linux
 
 ## Introduction to Disk and Storage Management
-Managing disks and storage efficiently is crucial for system performance and stability. Linux provides various commands to monitor, partition, format, mount, and manage disk storage.
+Managing disks and storage efficiently is crucial for system performance and stability. Linux provides various commands to monitor, partition, format, mount, and manage disk storage
 
 ## Index of Commands Covered
 
